@@ -1,3 +1,5 @@
 # RoomateSearch
-this is our read me
+
+This app allows users to find roomates!
+
 
